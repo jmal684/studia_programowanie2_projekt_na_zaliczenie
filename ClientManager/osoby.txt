@@ -1,0 +1,9 @@
+k;Grzegorz;Szynka;96;199
+k;Grzegorz;Nowak;86;182
+k;Kacper;Krecha;125;150
+k;Bozena;Szynka;145;189
+k;Bozena;Zaba;123;185
+p;Karolina;Szynka;trener
+p;Karolina;Karo;sprzataczka
+p;Amelia;Szynka;sekretarka
+p;Grzegorz;Nowak;sprzataczka

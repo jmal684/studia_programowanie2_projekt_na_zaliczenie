@@ -1,0 +1,6 @@
+p;Jan;Kaszmir;sekretarka
+p;Amadeusz;Parmezan;sprzataczka
+p;Karolina;Krecha;sekretarka
+p;Kacper;Parmezan;sprzataczka
+p;Bozena;Krecha;trener
+p;Beata;Szynka;trener

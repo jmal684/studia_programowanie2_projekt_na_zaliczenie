@@ -1,0 +1,4 @@
+kierownik;7000
+sekretarka;4500
+sprzataczka;4000
+trener;5500

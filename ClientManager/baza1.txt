@@ -1,0 +1,6 @@
+Karolina;Zaba;122;182
+Beata;Parmezan;138;162
+Beata;Karo;62;171
+Ewelina;Krecha;103;174
+Bozena;Wiadro;65;184
+Beata;Patyk;123;171

@@ -1,0 +1,8 @@
+k;Amelia;Nowak;93;197
+k;Grzegorz;Karo;103;164
+k;Jan;Gouda;54;178
+k;Bozena;Wiadro;109;197
+k;Cyprian;Nowak;97;177
+k;Ewelina;Nowak;103;150
+k;Kacper;Gouda;119;178
+k;Beata;Wiadro;124;164
