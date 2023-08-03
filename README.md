@@ -1,0 +1,2 @@
+# studia_programowanie2_projekt_na_zaliczenie
+Projekt na zaliczenie przedmiotu programowanie2 realizowanego na drugim semestrze.
